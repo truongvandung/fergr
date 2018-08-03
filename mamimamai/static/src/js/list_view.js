@@ -1,4 +1,4 @@
-odoo.define('lilao.dynamic_listview', function(require) {
+odoo.define('mamimamai.dynamic_listview', function(require) {
     var core = require('web.core');
     var ListView = require('web.ListView');
     var ListRenderer = require('web.ListRenderer');
